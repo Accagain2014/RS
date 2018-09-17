@@ -1,3 +1,10 @@
+## Surveys
+- Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works
+    - 2017 IJCA (International Journal of Computer Applications)
+    - 
+
+
+
 -----
 - The YouTube Video Recommendation System
     - 2010 RecSys, Google
