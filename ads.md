@@ -1,8 +1,8 @@
 ## 相关资料
-- [repo: Ad-papers](https://github.com/upperli/Ad-papers)
-- [repo: rtb-papers](https://github.com/upperli/rtb-papers)
+- [repo: Ad-papers](https://github.com/wzhe06/Ad-papers)
+- [repo: rtb-papers](https://github.com/wnzhang/rtb-papers)
 - [书籍: 计算广告](https://book.douban.com/subject/26596778/) (2015.9)
-- [ppt: 计算广告](./readings/) (by xujun)
+- [ppt: 计算广告](./readings/第13次课件-计算广告.pdf) (by xujun)
 
 ## 组成部分
 - 广告主(advertisers)
@@ -37,7 +37,8 @@
     - 广告检索
     - 广告排序
     - 点击后计费 - 拍卖
-    - 点击率预估
+    - 点击率(CTR)预估
+    - 转化率(CVR)预估
     - 程序化交易和实时竞价(real time bidding, RTB)
     
 
@@ -59,5 +60,5 @@
 - DMP(Data Management Platform): 是把分散的数据进行整合纳入统一的技术平台
 
 ## 总结
-    - 变现, 引擎. (计算广告是研究互联网变现的技术，是互联网产业繁荣发展的引擎.)
+- 变现, 引擎. (计算广告是研究互联网变现的技术，是互联网产业繁荣发展的引擎.)
    
