@@ -6,7 +6,8 @@ Understanding Recommendation System Technology And Do Some Implementation Works.
 - [A repo about RS papers](https://github.com/hongleizhang/RSPapers)
 - [A repo about RS system](https://github.com/grahamjenson/list_of_recommender_systems)
 - [Recommender Systems Handbook](http://www.cs.ubbcluj.ro/~gabis/DocDiplome/SistemeDeRecomandare/Recommender_systems_handbook.pdf)(2010)
-- [Recommender Systems Handbook 2nd]()(2018)
+- [Recommender Systems Handbook 2nd]()(2015)
+- [ACM RecSys 2018 Late-Breaking Results Proceedings](https://arxiv.org/html/1809.04106)
 
 
 
