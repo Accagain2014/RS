@@ -7,6 +7,18 @@
 <br> 优化方法和分布式实现上创新
 
 ----
-> 
+> [**FTRL()**]
+<br> [Ad Click Prediction: a View from the Trenches](../readings/ctr/2013%20KDD%20Ad%20Click%20Prediction-%20a%20View%20from%20the%20Trenches.pdf)
+<br> 2013 KDD. Google.
+<br> 更改SGD优化方式，在保证精度的情况下，保证稀疏。一个样本只有某些权重有用
+<br> [一种实现](https://www.kaggle.com/darraghdog/ftrl-revisited-22)
 
+----
+> [**GDBT/XGBOOST+LR**]
+<br> [Practical Lessons from Predicting Clicks on Ads at Facebook](http://quinonero.net/Publications/predicting-clicks-facebook.pdf)
+<br> ADKDD 2014.
+
+----
+>
+<br> Model Ensemble for Click Prediction in Bing Search Ads. 2017.
 

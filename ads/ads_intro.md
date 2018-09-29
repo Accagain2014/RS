@@ -7,6 +7,7 @@
 - [course: Introduction to Computational Advertising. MS&E 239.](https://web.stanford.edu/class/msande239/) (by Stanford 2011.)
 - [a kaggle competetion: Click-Through Rate Prediction](https://www.kaggle.com/c/avazu-ctr-prediction)
 - [a kaggle competetion: Display Advertising Challenge](https://www.kaggle.com/c/criteo-display-ad-challenge)
+- [a kaggle competetion: TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 - [a useful csdn: 计算广告干货整理](https://blog.csdn.net/a819825294/article/details/53540245) (2016.12)
 - [a useful jianshu: 计算广告资料汇总](https://www.jianshu.com/p/8c591feb9fc4)
 - [报告：中国网络广告市场年度监测报告。艾瑞咨询。2018.](../readings/stats/2018年中国网络广告市场年度监测报告-简版.pdf)
@@ -18,7 +19,6 @@
 ## 关注人物
 - [王喆](https://github.com/wzhe06/Ad-papers)
 - [张伟楠](http://wnzhang.net/)
-- 
 
 ## 关键总结
 - 以广告作为核心的后向变现体系
@@ -202,7 +202,8 @@
     - RPM(Revenue per Mille) 千次展示收入
     - CPC(cost per click) 按用户点击计费
     - CPA(cost per action) 按转化行为结算
-    - CPS(cost per sale)
+    - CPS(cost per sale) 按售卖来结算
+    - CPI（Cost per install）按安装来结算
     
 
 ## 关键术语
