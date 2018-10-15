@@ -7,8 +7,14 @@ Understanding Recommendation System Technology And Do Some Implementation Works.
 - [A repo about RS system](https://github.com/grahamjenson/list_of_recommender_systems)
 - [A repo about DL in RS](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 - [Recommender Systems Handbook](http://www.cs.ubbcluj.ro/~gabis/DocDiplome/SistemeDeRecomandare/Recommender_systems_handbook.pdf)(2010)
+<<<<<<< HEAD
 - [Recommender Systems Handbook 2nd]()(2018)
 - [RecSys 2017 summer slides: Deep Learning for Recommender Systems](http://pro.unibz.it/projects/schoolrecsys17/DeepLearning.pdf)
+=======
+- [Recommender Systems Handbook 2nd]()(2015)
+- [ACM RecSys 2018 Late-Breaking Results Proceedings](https://arxiv.org/html/1809.04106)
+
+>>>>>>> origin/master
 
 
 ## Categories
