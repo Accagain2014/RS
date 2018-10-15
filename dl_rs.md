@@ -1,0 +1,68 @@
+## 分类
+- MLP based Recommendation
+    - Neural Extension of Traditional Recommendation Methods(在矩阵分解/协同过滤上扩展)
+        - NNMF(Neural Network Matrix Factorization) 2015 arXiv
+        - NCF(Neural Collaborative Filtering) 2017 WWW
+        - DeepFM(Deep Factorization Machine) 2017 IJCAI
+    - Feature Representation Learning with MLP
+        - Wide & Deep. 2017 Recsys
+        - CML(Collaborative Metric Learning) 2017  WWW
+    - Recommendation with Deep Structured Semantic Model
+        - DSSM(deep structured semantic model) 2013 CIKM
+        - DSPR(deep semantic similarity based personalized recommendation) 2016 CIKM
+        - MV-DNN(Multi-View Deep Neural Network) 2015 WWW
+- Autoencoder based Recommendation
+    - Autoencoder based Collaborative Filtering. (利用最后一层直接预测空白值)
+        - AutoRec: I-AutoRec/U-AutoRec. 2015 WWW
+        - CFN. 2015. NIPS workshop.
+        - CDAE(Collaborative Denoising Auto-Encoder). 2016 WSDM
+        - ACF(Autoencoder-based Collaborative Filtering). 2014.
+    - Feature Representation Learning with Autoencoder (利用中间的bottleneck layer层表示特征)
+        - CDL(Collaborative Deep Learning). 2015 SIGKDD. 
+        - RSDAE(relational stacked denoising autoencoders). 2015 AAAI.
+        - CVAE(collaborative variational autoencoder). 2015 CIKM.
+        - CDR(collaborative deep ranking). 2016 PAKDD.
+        - mDA-CF(Deep collaborative filtering framework). 2015 CIKM. (Deep collaborative filtering via marginalized denoising auto-encoder)
+        - AutoSVD++. 2017
+        - HRCD. 2017 IEEE.
+- Convolutional Neural Networks based Recommendation
+    - Feature representation learning with CNNs
+        - VPOI(visual content enhanced POI rs). 2017 WWW.
+        - VBPR(visual Bayesian personalized ranking). 2016 AAAI.
+        - ConTagNet(context-aware tag recommender system). 2016.
+        - DeepCoNN(CNNs for Text Feature Extraction). 2014.
+        - ConvMF(Convolutional matrix factorization). 2016 Recsys.
+    - CNNs based Collaborative filtering
+        - ConvNCF(outer product-based Neural Collaborative Filtering). 2018.
+    - Graph CNNs for Recommendation
+- Recurrent Neural Networks based Recommendation
+    - Session-based Recommendation without User Identifier
+        - GRU4Rec. 2015 ICLR   
+    - Sequential Recommendation with User Identifier
+        - RRN(Recurrent Recommender Network). 2017 WSDM.
+        - NRT(Neural Rating Regression with Abstractive Tips Generation for Recommendation). 2017.
+    - Feature Representation Learning with RNNs
+        - TDSSM(Multi-rate deep learning for temporal recommendation) 2016 SIGIR.
+- Restricted Boltzmann Machine based Recommendation
+    - RBM-CF(Restricted Boltzmann machines for collaborative filtering). 2007 ICML.
+- Neural Attention based Recommendation
+    - Recommendation with Vanilla Attention
+    - Recommendation with Co-Attention
+        - AttRec(Next Item Recommendation with Self-Attention). 2018.
+- Neural AutoRegressive based Recommendation
+    - NADE(Neural Autoregressive Distribution Estimator). 2011.
+    - CF-NADE(a NADE based collaborative filtering model). 2016.
+- Deep Reinforcement Learning for Recommendation(DRL)
+    - DEERS(Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning). 2018 arXiv.
+    - DeepPage(Deep Reinforcement Learning for Page-wise Recommendations). 2018 arXiv.
+    - DRN(DRN: A Deep Reinforcement Learning Framework for News Recommendation). 2018 WWW.
+- Adversarial Network based Recommendation
+    - IRGAN(IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models) 2017.
+- Deep Hybird Models for Recommendation
+    - CNNs and Autoencoder.
+        - CKE(Collaborative Knowledge Based Embedding). 2016 SIGKDD.
+    - CNNs and RNNs
+    - RNNs and Autoencoder
+        - CRAE(Collaborative recurrent autoencoder: Recommend while learning to fill in the blanks) 2016 NIPS.
+    - RNNs with DRL.
+        - 
