@@ -55,4 +55,7 @@ Understanding Recommendation System Technology And Do Some Implementation Works.
 
 ## Data and Competitions
 - [NETFLIX PRIZE COMPETITION, 2006~2009](https://www.netflixprize.com/index.html)
-- [Movie Lens]()
+- [Movie Lens](https://grouplens.org/datasets/movielens/)
+- [Amazon Dataset](http://jmcauley.ucsd.edu/data/amazon/)
+    - Electronics (192,403 users, 63,001 goods, 801 categories and 1,689,188 samples.)
+- [Recommender Systems Datasets, by Julian McAuley, UCSD](https://cseweb.ucsd.edu/~jmcauley/datasets.html)

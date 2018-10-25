@@ -4,6 +4,7 @@
 - [书籍: 计算广告](https://book.douban.com/subject/26596778/) (2015.9)
 - [CIKM Tutorial 2016: Learning, Prediction and Optimisation in RTB Display Advertising](../readings/surveys/cikm-2016-rtb-full.pdf)(by zhang weinan.)
 - [ppt: 计算广告](../readings/第13次课件-计算广告.pdf) (by xujun.)
+- [a book: Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://arxiv.org/abs/1610.03013)(2017 by weinan zhang)
 - [course: Introduction to Computational Advertising. MS&E 239.](https://web.stanford.edu/class/msande239/) (by Stanford 2011.)
 - [a kaggle competetion: Click-Through Rate Prediction](https://www.kaggle.com/c/avazu-ctr-prediction)
 - [a kaggle competetion: Display Advertising Challenge](https://www.kaggle.com/c/criteo-display-ad-challenge)
@@ -17,8 +18,9 @@
 ## 市场背景/产品逻辑
 
 ## 关注人物
-- [王喆](https://github.com/wzhe06/Ad-papers)
-- [张伟楠](http://wnzhang.net/)
+- [王喆, HULU](https://github.com/wzhe06/Ad-papers)
+- [张伟楠, SJTU](http://wnzhang.net/)
+- [盖昆, 阿里妈妈](https://dblp.org/pers/hd/g/Gai:Kun)
 
 ## 关键总结
 - 互联网三大钱宝，游戏/广告/电商

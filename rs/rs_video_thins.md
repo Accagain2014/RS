@@ -22,3 +22,13 @@
         - item-based CF
     - model-based CF
         - MF
+        
+### LSTM用于视频推荐缺点
+> We have tried LSTM to model user historical behavior data in the sequential manner. But it shows no improvement. Different
+from text which is under the constraint of grammar in NLP task,
+the sequence of user historical behaviors may contain multiple
+concurrent interests. Rapid jumping and sudden ending over these
+interests causes the sequence data of user behaviors to seem to be
+noisy. A possible direction is to design special structures to model
+such data in a sequence way. We leave it for future research. (DIN 2018 KDD Gai Kun)
+
