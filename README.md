@@ -13,6 +13,19 @@ Understanding Recommendation System Technology And Do Some Implementation Works.
 - [ACM RecSys 2018 Late-Breaking Results Proceedings](https://arxiv.org/html/1809.04106)
 
 
+## Person In This Aera
+- [Wang-Cheng Kang](http://cseweb.ucsd.edu/~wckang/)
+
+
+## Code Readings
+- [shenweichen/DeepCTR](https://github.com/shenweichen/DeepCTR/tree/master/deepctr/models)
+- [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec/tree/master/models)
+
+
+## Blog Readings
+- [Embedding从入门到专家必读的十篇论文](https://zhuanlan.zhihu.com/p/58805184)
+
+
 ## Categories
 - Content Based RS
     - method
@@ -24,11 +37,19 @@ Understanding Recommendation System Technology And Do Some Implementation Works.
         - neighborhood methods
         - latent factor models
             - Matrix Factorization Based RS
-- others
-    - Deep Learning Based RS
-    - Tree Based RS
-    - Stream Based RS
-    - Sequence-aware Recommendations
+- Tree Based RS
+    - GBDT & Xgboost
+    - XGBoost + LR
+    - 兴趣树
+- LR Related
+    - LR
+    - FM
+    - FFM
+- Deep Learning Based RS
+    - Wide and Deep
+    - DeepFM
+    - DeepFFM
+- Stream Based RS 
 
 ## Features
 - information filtering system
@@ -36,6 +57,8 @@ Understanding Recommendation System Technology And Do Some Implementation Works.
 
 ## Some Technology Problems
 - Cold Start Problem
+    - 基于内容推荐
+    - 基于热点、时效推荐
     - 增加额外信息，比如隐含信息(浏览/点击/购买)；增加兴趣时间动态信息，比如将用户隐向量看作是时间的函数等
 - RS Explaination Problem
 - The Long Tail Problem
@@ -59,3 +82,8 @@ Understanding Recommendation System Technology And Do Some Implementation Works.
 - [Amazon Dataset](http://jmcauley.ucsd.edu/data/amazon/)
     - Electronics (192,403 users, 63,001 goods, 801 categories and 1,689,188 samples.)
 - [Recommender Systems Datasets, by Julian McAuley, UCSD](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+
+
+## Thinks
+- 从内容理解到行为理解 [https://zhuanlan.zhihu.com/p/118669676]
+

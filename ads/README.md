@@ -2,8 +2,8 @@
 - [repo: Ad-papers](https://github.com/wzhe06/Ad-papers)
 - [repo: rtb-papers](https://github.com/wnzhang/rtb-papers)
 - [书籍: 计算广告](https://book.douban.com/subject/26596778/) (2015.9)
-- [CIKM Tutorial 2016: Learning, Prediction and Optimisation in RTB Display Advertising](../readings/surveys/cikm-2016-rtb-full.pdf)(by zhang weinan.)
-- [ppt: 计算广告](../readings/第13次课件-计算广告.pdf) (by xujun.)
+- [CIKM Tutorial 2016: Learning, Prediction and Optimisation in RTB Display Advertising](../materials/readings/surveys/cikm-2016-rtb-full.pdf)(by zhang weinan.)
+- [ppt: 计算广告](../materials/readings/第13次课件-计算广告.pdf) (by xujun.)
 - [a book: Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://arxiv.org/abs/1610.03013)(2017 by weinan zhang)
 - [course: Introduction to Computational Advertising. MS&E 239.](https://web.stanford.edu/class/msande239/) (by Stanford 2011.)
 - [a kaggle competetion: Click-Through Rate Prediction](https://www.kaggle.com/c/avazu-ctr-prediction)
@@ -11,7 +11,7 @@
 - [a kaggle competetion: TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 - [a useful csdn: 计算广告干货整理](https://blog.csdn.net/a819825294/article/details/53540245) (2016.12)
 - [a useful jianshu: 计算广告资料汇总](https://www.jianshu.com/p/8c591feb9fc4)
-- [报告：中国网络广告市场年度监测报告。艾瑞咨询。2018.](../readings/stats/2018年中国网络广告市场年度监测报告-简版.pdf)
+- [报告：中国网络广告市场年度监测报告。艾瑞咨询。2018.](../materials/readings/stats/2018年中国网络广告市场年度监测报告-简版.pdf)
 - [知乎专栏：从最近的比赛学习CTR/CVR](https://zhuanlan.zhihu.com/p/35046241)
 
 
