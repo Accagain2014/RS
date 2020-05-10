@@ -15,3 +15,4 @@ Deep Neural Networks for YouTube Recommendations
 - 【重排&机制策略】多样性重排MMR,这篇要告诉大家推荐系统中还需要很多机制策略[The Use of MMR, Diversity-Based Reranking for Reordering Documents and Producing Summaries](https://www.cs.cmu.edu/~jgc/publication/The_Use_MMR_Diversity_Based_LTMIR_1998.pdf)
 
 
+

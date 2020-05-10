@@ -1,18 +1,46 @@
 
 
-### Paper Follows
-- ﻿BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer.
-    - 2019 CIKM. **BERT4Rec**
+### Paper Follows & Code Reading
+- **[BERT4Rec]** BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer.
+    - 2019 CIKM. 
     - [official code](https://github.com/FeiSun/BERT4Rec)
+    - 双向Self-Attention应用;
     - 随机mask, 训练时将最后一个也mask掉, 预测时预测下一个;
-    - 没有预训练，直接从最开始训练；
-    - 体现双向能力
+    - 没有预训练，直接从最开始训练;
     
-    
-- ﻿Self-Attentive Sequential Recommendation.
-    - 2018 ICDM. **SASRec**;
+        
+- **[SASRec]** Self-Attentive Sequential Recommendation.
+    - 2018 ICDM.
     - [official code](https://github.com/kang205/SASRec)
     - 单向Self-Attentin应用;
+    
+  
+- **[MIMN]** Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction
+    - 2019 KDD. 
+    - [official code](https://github.com/UIC-Paper/MIMN)
+        - 用户兴趣网络更新和商品预测分开；
+        - 多通道记忆网络 + 记忆权重归一化;
+        
+**MIND**
+
+        
+- **[Wide & Deep]** Wide & Deep Learning for Recommender Systems
+    - 2016. 
+    - [用NumPy手工打造 Wide & Deep](https://zhuanlan.zhihu.com/p/53110408) [stasi009/NumpyWDL](https://github.com/stasi009/NumpyWDL)
+    - [models/official/r1/wide_deep](https://github.com/tensorflow/models/tree/master/official/r1/wide_deep)
+    - 
+
+- **[FTRL]** Ad Click Prediction: a View from the Trenches
+    - a
+ 
+DeepFM
+    - [ChenglongChen/tensorflow-DeepFM](https://github.com/ChenglongChen/tensorflow-DeepFM)
+    - [TensorFlow Estimator of Deep CTR --DeepFM/NFM/AFM/FNN/PNN](https://zhuanlan.zhihu.com/p/33699909)
+    
+    
+Google Deep & Cross Network
+    - 允许显式指定交叉阶次
+    
     
     
     
@@ -36,6 +64,9 @@
     - methods
         - **GRU4Rec**
 - Transformer
+
+- [chenghu17/Sequential_Recommendation](https://github.com/chenghu17/Sequential_Recommendation.git)
+
 
 
 ### Methods
