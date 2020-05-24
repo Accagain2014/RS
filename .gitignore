@@ -1,5 +1,6 @@
 models/RS/BERT4Rec/data/
 models/RS/SASRec/data/
+models/RS/ckpt/
 
 
 # Byte-compiled / optimized / DLL files
